@@ -25,5 +25,4 @@
  * @brief isDeleted : bool value of true indicates deleted and false indicates not deleted.
  */
 @property(nonatomic,strong) NSNumber *isDeleted;
-
 @end
