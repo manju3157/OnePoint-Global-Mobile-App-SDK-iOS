@@ -11,6 +11,9 @@
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
 
+
+
+
  http://resources.onepointglobal.com/sdk-license/home
  
  http://resources.onepointglobal.com/sdk-license/3rd-party-software
